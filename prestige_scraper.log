@@ -1,0 +1,171 @@
+2025-12-10 19:12:53,221 - INFO - ====================================================================================================
+2025-12-10 19:12:53,222 - INFO - 🌸 PRESTIGE FLOWERS - MODULAR SCRAPER ORCHESTRATOR
+2025-12-10 19:12:53,222 - INFO - ====================================================================================================
+2025-12-10 19:12:53,222 - INFO - 
+📍 STAGE 1: Scraping Product URLs
+2025-12-10 19:12:53,222 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 19:12:53,238 - INFO - ✅ Database initialized: prestige_flowers.db
+2025-12-10 19:12:53,238 - INFO - 🔍 Fetching category page: https://www.prestigeflowers.co.uk/christmas-flowers
+2025-12-10 19:12:53,790 - ERROR - ❌ Error in URL scraping: BrowserType.launch: Executable doesn't exist at /home/vanessa-rodrigues/.cache/ms-playwright/chromium_headless_shell-1181/chrome-linux/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-12-10 19:12:53,791 - ERROR - ❌ Stage 1 failed: BrowserType.launch: Executable doesn't exist at /home/vanessa-rodrigues/.cache/ms-playwright/chromium_headless_shell-1181/chrome-linux/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-12-10 19:14:17,169 - INFO - ====================================================================================================
+2025-12-10 19:14:17,170 - INFO - 🌸 PRESTIGE FLOWERS - MODULAR SCRAPER ORCHESTRATOR
+2025-12-10 19:14:17,170 - INFO - ====================================================================================================
+2025-12-10 19:14:17,170 - INFO - 
+📍 STAGE 1: Scraping Product URLs
+2025-12-10 19:14:17,170 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 19:14:17,171 - INFO - ✅ Database initialized: prestige_flowers.db
+2025-12-10 19:14:17,171 - INFO - 🔍 Fetching category page: https://www.prestigeflowers.co.uk/christmas-flowers
+2025-12-10 19:14:22,924 - INFO - 🔎 Found 40 product links
+2025-12-10 19:14:22,929 - INFO - ✅ Inserted 40 new product URLs
+2025-12-10 19:14:22,930 - INFO - 📊 URLs Result: Inserted 40, Skipped 0
+2025-12-10 19:14:22,930 - INFO - 
+📍 STAGE 2: Scraping Product Details
+2025-12-10 19:14:22,930 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 19:14:22,938 - INFO - ✅ Database initialized: prestige_flowers.db
+2025-12-10 19:14:22,939 - INFO - 
+====================================================================================================
+2025-12-10 19:14:22,939 - INFO - 🌸 PRESTIGE FLOWERS - DETAILED PRODUCT SCRAPER
+2025-12-10 19:14:22,939 - INFO - ====================================================================================================
+2025-12-10 19:14:22,939 - INFO - 📋 Starting scrape of 2 products...
+
+2025-12-10 19:14:23,381 - ERROR - ❌ Browser error: Logger._log() got an unexpected keyword argument 'end'
+2025-12-10 19:14:23,381 - INFO - 
+====================================================================================================
+2025-12-10 19:14:23,381 - INFO - 📊 SCRAPING COMPLETE:
+2025-12-10 19:14:23,381 - INFO - ====================================================================================================
+2025-12-10 19:14:23,381 - INFO - ✅ Successfully scraped: 0
+2025-12-10 19:14:23,381 - INFO - ❌ Failed: 2
+2025-12-10 19:14:23,381 - INFO - 📊 Total: 2
+
+2025-12-10 19:14:23,381 - INFO - 
+📍 FINAL SUMMARY
+2025-12-10 19:14:23,381 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 19:14:23,382 - INFO - 📊 Database Statistics:
+2025-12-10 19:14:23,382 - INFO -    Total URLs: 40
+2025-12-10 19:14:23,382 - INFO -    Pending: 40
+2025-12-10 19:14:23,382 - INFO -    Processed: 0
+2025-12-10 19:14:23,382 - INFO -    Total Details: 0
+2025-12-10 19:14:23,382 - INFO -    Total Errors: 0
+2025-12-10 19:14:23,382 - INFO - ✅ Exported 40 products to prestige_flowers_combined.csv
+2025-12-10 19:14:23,382 - INFO - 
+✅ Orchestrator completed successfully!
+2025-12-10 19:14:23,382 - INFO - ====================================================================================================
+
+2025-12-10 19:16:44,972 - INFO - ====================================================================================================
+2025-12-10 19:16:44,975 - INFO - 🌸 PRESTIGE FLOWERS - MODULAR SCRAPER ORCHESTRATOR
+2025-12-10 19:16:44,975 - INFO - ====================================================================================================
+2025-12-10 19:16:44,975 - INFO - 
+📍 STAGE 1: Scraping Product URLs
+2025-12-10 19:16:44,975 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 19:16:44,975 - INFO - ✅ Database initialized: prestige_flowers.db
+2025-12-10 19:16:44,976 - INFO - 🔍 Fetching category page: https://www.prestigeflowers.co.uk/christmas-flowers
+2025-12-10 19:16:49,460 - INFO - 🔎 Found 40 product links
+2025-12-10 19:16:49,461 - INFO - ✅ Inserted 0 new product URLs
+2025-12-10 19:16:49,461 - INFO - ⏭️ Skipped 40 duplicate URLs
+2025-12-10 19:16:49,461 - INFO - 📊 URLs Result: Inserted 0, Skipped 40
+2025-12-10 19:16:49,461 - INFO - 
+📍 STAGE 2: Scraping Product Details
+2025-12-10 19:16:49,461 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 19:16:49,462 - INFO - ✅ Database initialized: prestige_flowers.db
+2025-12-10 19:16:49,462 - INFO - 
+====================================================================================================
+2025-12-10 19:16:49,462 - INFO - 🌸 PRESTIGE FLOWERS - DETAILED PRODUCT SCRAPER
+2025-12-10 19:16:49,462 - INFO - ====================================================================================================
+2025-12-10 19:16:49,462 - INFO - 📋 Starting scrape of 2 products...
+
+2025-12-10 19:16:49,929 - INFO - [1/2] Processing: https://www.prestigeflowers.co.uk/christmas-flowers/merry-christmas
+2025-12-10 19:16:49,930 - INFO - 🔄 Scraping details: https://www.prestigeflowers.co.uk/christmas-flowers/merry-christmas
+2025-12-10 19:16:59,123 - INFO - ✅ Merry Christmas | £26.99
+2025-12-10 19:17:01,125 - INFO - [2/2] Processing: https://www.prestigeflowers.co.uk/christmas-flowers/happy-christmas
+2025-12-10 19:17:01,125 - INFO - 🔄 Scraping details: https://www.prestigeflowers.co.uk/christmas-flowers/happy-christmas
+2025-12-10 19:17:07,280 - INFO - ✅  | NoneNone
+2025-12-10 19:17:09,354 - INFO - 
+====================================================================================================
+2025-12-10 19:17:09,354 - INFO - 📊 SCRAPING COMPLETE:
+2025-12-10 19:17:09,354 - INFO - ====================================================================================================
+2025-12-10 19:17:09,355 - INFO - ✅ Successfully scraped: 2
+2025-12-10 19:17:09,355 - INFO - ❌ Failed: 0
+2025-12-10 19:17:09,355 - INFO - 📊 Total: 2
+
+2025-12-10 19:17:09,355 - INFO - 
+📍 FINAL SUMMARY
+2025-12-10 19:17:09,355 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 19:17:09,355 - INFO - 📊 Database Statistics:
+2025-12-10 19:17:09,355 - INFO -    Total URLs: 40
+2025-12-10 19:17:09,355 - INFO -    Pending: 38
+2025-12-10 19:17:09,355 - INFO -    Processed: 2
+2025-12-10 19:17:09,355 - INFO -    Total Details: 2
+2025-12-10 19:17:09,355 - INFO -    Total Errors: 0
+2025-12-10 19:17:09,356 - INFO - ✅ Exported 40 products to prestige_flowers_combined.csv
+2025-12-10 19:17:09,356 - INFO - 
+✅ Orchestrator completed successfully!
+2025-12-10 19:17:09,356 - INFO - ====================================================================================================
+
+2025-12-10 20:31:54,606 - INFO - ====================================================================================================
+2025-12-10 20:31:54,606 - INFO - 🌸 PRESTIGE FLOWERS - MODULAR SCRAPER ORCHESTRATOR
+2025-12-10 20:31:54,606 - INFO - ====================================================================================================
+2025-12-10 20:31:54,606 - INFO - 
+📍 STAGE 1: Scraping Product URLs
+2025-12-10 20:31:54,606 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 20:31:54,607 - INFO - ✅ Database initialized: prestige_flowers.db
+2025-12-10 20:31:54,607 - INFO - 🔍 Fetching category page: https://www.prestigeflowers.co.uk/christmas-flowers
+2025-12-10 20:31:59,214 - INFO - 🔎 Found 40 product links
+2025-12-10 20:31:59,217 - INFO - ✅ Inserted 0 new product URLs
+2025-12-10 20:31:59,217 - INFO - ⏭️ Skipped 40 duplicate URLs
+2025-12-10 20:31:59,217 - INFO - 📊 URLs Result: Inserted 0, Skipped 40
+2025-12-10 20:31:59,217 - INFO - 
+📍 STAGE 2: Scraping Product Details
+2025-12-10 20:31:59,217 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 20:31:59,218 - INFO - ✅ Database initialized: prestige_flowers.db
+2025-12-10 20:31:59,218 - INFO - 
+====================================================================================================
+2025-12-10 20:31:59,218 - INFO - 🌸 PRESTIGE FLOWERS - DETAILED PRODUCT SCRAPER
+2025-12-10 20:31:59,218 - INFO - ====================================================================================================
+2025-12-10 20:31:59,218 - INFO - 📋 Starting scrape of 2 products...
+
+2025-12-10 20:31:59,764 - INFO - [1/2] Processing: https://www.prestigeflowers.co.uk/christmas-flowers/festivity
+2025-12-10 20:31:59,764 - INFO - 🔄 Scraping details: https://www.prestigeflowers.co.uk/christmas-flowers/festivity
+2025-12-10 20:32:09,140 - INFO - ✅ Festivity | £29.99
+2025-12-10 20:32:11,142 - INFO - [2/2] Processing: https://www.prestigeflowers.co.uk/christmas-flowers/festive-rose-freesia
+2025-12-10 20:32:11,143 - INFO - 🔄 Scraping details: https://www.prestigeflowers.co.uk/christmas-flowers/festive-rose-freesia
+2025-12-10 20:32:17,328 - INFO - ✅  | NoneNone
+2025-12-10 20:32:19,441 - INFO - 
+====================================================================================================
+2025-12-10 20:32:19,442 - INFO - 📊 SCRAPING COMPLETE:
+2025-12-10 20:32:19,442 - INFO - ====================================================================================================
+2025-12-10 20:32:19,442 - INFO - ✅ Successfully scraped: 2
+2025-12-10 20:32:19,442 - INFO - ❌ Failed: 0
+2025-12-10 20:32:19,442 - INFO - 📊 Total: 2
+
+2025-12-10 20:32:19,442 - INFO - 
+📍 FINAL SUMMARY
+2025-12-10 20:32:19,442 - INFO - ----------------------------------------------------------------------------------------------------
+2025-12-10 20:32:19,443 - INFO - 📊 Database Statistics:
+2025-12-10 20:32:19,443 - INFO -    Total URLs: 40
+2025-12-10 20:32:19,443 - INFO -    Pending: 36
+2025-12-10 20:32:19,443 - INFO -    Processed: 4
+2025-12-10 20:32:19,443 - INFO -    Total Details: 4
+2025-12-10 20:32:19,443 - INFO -    Total Errors: 0
+2025-12-10 20:32:19,444 - INFO - ✅ Exported 40 products to prestige_flowers_combined.csv
+2025-12-10 20:32:19,445 - INFO - 
+✅ Orchestrator completed successfully!
+2025-12-10 20:32:19,445 - INFO - ====================================================================================================
+
+2025-12-10 20:33:05,456 - INFO - ✅ Database initialized: prestige_flowers.db
