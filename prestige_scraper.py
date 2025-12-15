@@ -89,8 +89,8 @@ async def main():
     logger.info("="*100)
 
     db_path = 'prestige_flowers.db'
-    category_url = "https://www.prestigeflowers.co.uk/christmas-flowers"
-    details_limit = 2  # Limit for testing, can be None for all
+    category_url = "https://www.prestigeflowers.co.uk/christmas-plants"
+    details_limit = 4  # Limit for testing, can be None for all
 
     # STAGE 1: Scrape Product URLs
     logger.info("\n📍 STAGE 1: Scraping Product URLs")
