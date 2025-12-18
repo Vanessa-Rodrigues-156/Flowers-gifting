@@ -1,0 +1,539 @@
+2025-12-17 18:09:26,237 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:09:26,237 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:09:26,237 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:09:26,237 - INFO - Stealth Enabled: True
+2025-12-17 18:09:26,237 - INFO - Rate Limit: 2s
+2025-12-17 18:09:26,249 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:09:26,250 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:12:23,482 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:12:23,482 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:12:23,482 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:12:23,482 - INFO - Stealth Enabled: True
+2025-12-17 18:12:23,482 - INFO - Rate Limit: 2s
+2025-12-17 18:12:23,483 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:12:23,483 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:13:54,978 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:13:54,978 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:13:54,978 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:13:54,978 - INFO - Stealth Enabled: True
+2025-12-17 18:13:54,978 - INFO - Rate Limit: 2s
+2025-12-17 18:13:54,979 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:13:54,979 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:13:57,285 - INFO - Found 0 product URLs
+2025-12-17 18:13:57,285 - INFO - Scraped 0 URLs
+2025-12-17 18:13:57,286 - INFO - Starting scrape of 0 products
+2025-12-17 18:13:57,905 - INFO - Scrape complete: 0 successful, 0 failed
+2025-12-17 18:13:57,906 - INFO - Scraping complete
+2025-12-17 18:13:57,906 - INFO - Results: {'total': 0, 'successful': 0, 'failed': 0}
+2025-12-17 18:15:29,660 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:15:29,660 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:15:29,660 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:15:29,660 - INFO - Stealth Enabled: True
+2025-12-17 18:15:29,660 - INFO - Rate Limit: 2s
+2025-12-17 18:15:29,661 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:15:29,661 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:15:32,316 - INFO - Found 0 product URLs
+2025-12-17 18:15:32,316 - INFO - Scraped 0 URLs
+2025-12-17 18:15:32,317 - INFO - Starting scrape of 0 products
+2025-12-17 18:15:32,835 - INFO - Scrape complete: 0 successful, 0 failed
+2025-12-17 18:15:32,836 - INFO - Scraping complete
+2025-12-17 18:15:32,836 - INFO - Results: {'total': 0, 'successful': 0, 'failed': 0}
+2025-12-17 18:15:43,660 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:15:43,660 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:15:43,660 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:15:43,660 - INFO - Stealth Enabled: True
+2025-12-17 18:15:43,660 - INFO - Rate Limit: 2s
+2025-12-17 18:15:43,660 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:15:43,661 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:15:45,199 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-17 18:15:45,200 - INFO - Content length: 266211
+2025-12-17 18:15:45,324 - INFO - Found 0 product URLs
+2025-12-17 18:15:45,325 - INFO - Scraped 0 URLs
+2025-12-17 18:15:45,325 - INFO - Starting scrape of 0 products
+2025-12-17 18:15:45,833 - INFO - Scrape complete: 0 successful, 0 failed
+2025-12-17 18:15:45,833 - INFO - Scraping complete
+2025-12-17 18:15:45,833 - INFO - Results: {'total': 0, 'successful': 0, 'failed': 0}
+2025-12-17 18:15:54,867 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:15:54,868 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:15:54,868 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:15:54,868 - INFO - Stealth Enabled: True
+2025-12-17 18:15:54,868 - INFO - Rate Limit: 2s
+2025-12-17 18:15:54,868 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:15:54,869 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:15:56,721 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-17 18:15:56,721 - INFO - Content length: 335002
+2025-12-17 18:15:56,853 - INFO - Found 0 product URLs
+2025-12-17 18:15:56,853 - INFO - Scraped 0 URLs
+2025-12-17 18:15:56,853 - INFO - Starting scrape of 0 products
+2025-12-17 18:15:57,402 - INFO - Scrape complete: 0 successful, 0 failed
+2025-12-17 18:15:57,402 - INFO - Scraping complete
+2025-12-17 18:15:57,402 - INFO - Results: {'total': 0, 'successful': 0, 'failed': 0}
+2025-12-17 18:16:13,133 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:16:13,133 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:16:13,133 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:16:13,133 - INFO - Stealth Enabled: True
+2025-12-17 18:16:13,133 - INFO - Rate Limit: 2s
+2025-12-17 18:16:13,134 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:16:13,134 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:16:19,910 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-17 18:16:19,910 - INFO - Content length: 279889
+2025-12-17 18:16:20,031 - INFO - Found 0 product URLs
+2025-12-17 18:16:20,031 - INFO - Scraped 0 URLs
+2025-12-17 18:16:20,031 - INFO - Starting scrape of 0 products
+2025-12-17 18:16:20,512 - INFO - Scrape complete: 0 successful, 0 failed
+2025-12-17 18:16:20,512 - INFO - Scraping complete
+2025-12-17 18:16:20,512 - INFO - Results: {'total': 0, 'successful': 0, 'failed': 0}
+2025-12-17 18:16:34,899 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:16:34,899 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:16:34,899 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:16:34,899 - INFO - Stealth Enabled: True
+2025-12-17 18:16:34,899 - INFO - Rate Limit: 2s
+2025-12-17 18:16:34,900 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:16:34,900 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:16:41,864 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-17 18:16:42,950 - INFO - Found 9 links
+2025-12-17 18:16:43,054 - INFO - Scraped 9 URLs
+2025-12-17 18:16:43,054 - INFO - Scraped 9 URLs
+2025-12-17 18:16:43,054 - INFO - Starting scrape of 9 products
+2025-12-17 18:16:43,631 - INFO - [1/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 18:16:43,632 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 18:16:43,753 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter", waiting until "domcontentloaded"
+
+2025-12-17 18:16:45,759 - INFO - [2/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 18:16:45,765 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 18:16:45,805 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden", waiting until "domcontentloaded"
+
+2025-12-17 18:16:47,814 - INFO - [3/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 18:16:47,820 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 18:16:47,885 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium", waiting until "domcontentloaded"
+
+2025-12-17 18:16:49,897 - INFO - [4/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 18:16:49,903 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 18:16:49,961 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset", waiting until "domcontentloaded"
+
+2025-12-17 18:16:51,977 - INFO - [5/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 18:16:51,984 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 18:16:52,029 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant", waiting until "domcontentloaded"
+
+2025-12-17 18:16:54,040 - INFO - [6/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 18:16:54,046 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 18:16:54,084 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive", waiting until "domcontentloaded"
+
+2025-12-17 18:16:56,092 - INFO - [7/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 18:16:56,098 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 18:16:56,189 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift", waiting until "domcontentloaded"
+
+2025-12-17 18:16:58,198 - INFO - [8/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 18:16:58,204 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 18:16:58,289 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/santas-boots
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/santas-boots", waiting until "domcontentloaded"
+
+2025-12-17 18:17:00,297 - INFO - [9/9] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 18:17:00,303 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 18:17:00,337 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1", waiting until "domcontentloaded"
+
+2025-12-17 18:17:02,395 - INFO - Scrape complete: 0 successful, 9 failed
+2025-12-17 18:17:02,396 - INFO - Scraping complete
+2025-12-17 18:17:02,396 - INFO - Results: {'total': 9, 'successful': 0, 'failed': 9}
+2025-12-17 18:28:33,672 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:28:33,672 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:28:33,672 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:28:33,672 - INFO - Stealth Enabled: True
+2025-12-17 18:28:33,672 - INFO - Rate Limit: 2s
+2025-12-17 18:28:33,673 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:28:33,673 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:28:42,088 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-17 18:28:43,009 - INFO - Found 9 links
+2025-12-17 18:28:43,105 - INFO - Scraped 9 URLs
+2025-12-17 18:28:43,105 - INFO - Scraped 9 URLs
+2025-12-17 18:28:43,106 - INFO - Starting scrape of 18 products
+2025-12-17 18:28:43,581 - INFO - [1/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 18:28:43,586 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 18:28:43,621 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter", waiting until "domcontentloaded"
+
+2025-12-17 18:28:45,628 - INFO - [2/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 18:28:45,633 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 18:28:45,766 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden", waiting until "domcontentloaded"
+
+2025-12-17 18:28:47,776 - INFO - [3/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 18:28:47,782 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 18:28:47,823 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium", waiting until "domcontentloaded"
+
+2025-12-17 18:28:49,831 - INFO - [4/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 18:28:49,837 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 18:28:49,881 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset", waiting until "domcontentloaded"
+
+2025-12-17 18:28:51,892 - INFO - [5/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 18:28:51,899 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 18:28:51,945 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant", waiting until "domcontentloaded"
+
+2025-12-17 18:28:53,953 - INFO - [6/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 18:28:53,963 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 18:28:53,994 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive", waiting until "domcontentloaded"
+
+2025-12-17 18:28:56,002 - INFO - [7/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 18:28:56,008 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 18:28:56,054 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift", waiting until "domcontentloaded"
+
+2025-12-17 18:28:58,062 - INFO - [8/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 18:28:58,069 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 18:28:58,101 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/santas-boots
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/santas-boots", waiting until "domcontentloaded"
+
+2025-12-17 18:29:00,108 - INFO - [9/18] Processing: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 18:29:00,114 - INFO - Scraping details: https://www.prestigeflowers.co.ukhttps://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 18:29:00,145 - ERROR - Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+Call log:
+  - navigating to "https://www.prestigeflowers.co.ukhttps//www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1", waiting until "domcontentloaded"
+
+2025-12-17 18:29:02,152 - INFO - [10/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 18:29:02,157 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 18:29:11,148 - INFO - NEW: Fabulous and Festive | £34.99
+2025-12-17 18:29:13,150 - INFO - [11/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 18:29:13,157 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 18:29:59,308 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:30:01,318 - INFO - [12/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 18:30:01,326 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 18:30:47,760 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:30:49,940 - INFO - [13/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 18:30:49,947 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 18:31:36,082 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:31:38,090 - INFO - [14/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 18:31:38,097 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 18:32:24,280 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:32:26,287 - INFO - [15/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 18:32:26,294 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 18:33:12,603 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:33:14,610 - INFO - [16/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 18:33:14,616 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 18:34:00,715 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:34:02,724 - INFO - [17/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 18:34:02,731 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 18:34:49,085 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:34:51,093 - INFO - [18/18] Processing: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 18:34:51,100 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 18:35:37,272 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:35:39,358 - INFO - Scrape complete: 1 successful, 17 failed
+2025-12-17 18:35:39,358 - INFO - Scraping complete
+2025-12-17 18:35:39,358 - INFO - Results: {'total': 18, 'successful': 1, 'failed': 17}
+2025-12-17 18:52:46,049 - INFO - Starting Prestige V3 Scraper
+2025-12-17 18:52:46,049 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 18:52:46,049 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:52:46,049 - INFO - Stealth Enabled: True
+2025-12-17 18:52:46,050 - INFO - Rate Limit: 2s
+2025-12-17 18:52:46,062 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 18:52:46,062 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 18:52:54,537 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-17 18:52:55,383 - INFO - Found 9 links
+2025-12-17 18:52:55,496 - INFO - Scraped 9 URLs
+2025-12-17 18:52:55,496 - INFO - Scraped 9 URLs
+2025-12-17 18:52:55,497 - INFO - Starting scrape of 9 products
+2025-12-17 18:52:55,938 - INFO - [1/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 18:52:55,938 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 18:53:04,740 - INFO - NEW: Winter Hyacinth Planter | £29.99
+2025-12-17 18:53:06,742 - INFO - [2/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 18:53:06,748 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 18:53:52,909 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:53:54,917 - INFO - [3/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 18:53:54,923 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 18:54:41,202 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:54:43,211 - INFO - [4/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 18:54:43,219 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 18:55:29,367 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:55:31,375 - INFO - [5/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 18:55:31,380 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 18:56:17,465 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:56:19,473 - INFO - [6/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 18:56:19,479 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 18:57:05,589 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:57:07,597 - INFO - [7/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 18:57:07,604 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 18:57:53,710 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:57:55,719 - INFO - [8/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 18:57:55,725 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 18:58:41,895 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:58:43,904 - INFO - [9/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 18:58:43,911 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 18:59:30,392 - ERROR - Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("h1.products-name") to be visible
+
+2025-12-17 18:59:32,485 - INFO - Scrape complete: 1 successful, 8 failed
+2025-12-17 18:59:32,485 - INFO - Scraping complete
+2025-12-17 18:59:32,485 - INFO - Results: {'total': 9, 'successful': 1, 'failed': 8}
+2025-12-17 19:04:22,357 - INFO - Starting Prestige V3 Scraper
+2025-12-17 19:04:22,357 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 19:04:22,357 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 19:04:22,357 - INFO - Stealth Enabled: True
+2025-12-17 19:04:22,357 - INFO - Rate Limit: 2s
+2025-12-17 19:04:22,358 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 19:04:22,358 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 19:04:30,713 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-17 19:04:31,720 - INFO - Found 9 links
+2025-12-17 19:04:31,825 - INFO - Scraped 9 URLs
+2025-12-17 19:04:31,825 - INFO - Scraped 9 URLs
+2025-12-17 19:04:31,826 - INFO - Starting scrape of 8 products
+2025-12-17 19:04:32,316 - INFO - [1/8] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 19:04:32,320 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 19:04:41,068 - INFO - NEW: Luxury Christmas Rose Plant | £24.99
+2025-12-17 19:04:43,069 - INFO - [2/8] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 19:04:43,075 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 19:05:29,234 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, continuing anyway
+2025-12-17 19:05:29,258 - INFO - NEW: Just a moment... | £None
+2025-12-17 19:05:31,260 - INFO - [3/8] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 19:05:31,266 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 19:06:17,430 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden, continuing anyway
+2025-12-17 19:06:17,453 - INFO - NEW: Just a moment... | £None
+2025-12-17 19:06:19,455 - INFO - [4/8] Processing: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 19:06:19,461 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 19:07:05,581 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium, continuing anyway
+2025-12-17 19:07:05,603 - INFO - NEW: Just a moment... | £None
+2025-12-17 19:07:07,605 - INFO - [5/8] Processing: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 19:07:07,612 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 19:07:53,724 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, continuing anyway
+2025-12-17 19:07:53,748 - INFO - NEW: Just a moment... | £None
+2025-12-17 19:07:55,749 - INFO - [6/8] Processing: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 19:07:55,756 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 19:08:41,876 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/santas-boots, continuing anyway
+2025-12-17 19:08:41,903 - INFO - NEW: Just a moment... | £None
+2025-12-17 19:08:43,905 - INFO - [7/8] Processing: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 19:08:43,911 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 19:09:30,012 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter, continuing anyway
+2025-12-17 19:09:30,032 - INFO - NEW: Just a moment... | £None
+2025-12-17 19:09:32,035 - INFO - [8/8] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 19:09:32,042 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 19:10:18,158 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift, continuing anyway
+2025-12-17 19:10:18,180 - INFO - NEW: Just a moment... | £None
+2025-12-17 19:10:20,269 - INFO - Scrape complete: 8 successful, 0 failed
+2025-12-17 19:10:20,270 - INFO - Scraping complete
+2025-12-17 19:10:20,270 - INFO - Results: {'total': 8, 'successful': 8, 'failed': 0}
+2025-12-17 19:23:49,638 - INFO - Starting Prestige V3 Scraper
+2025-12-17 19:23:49,638 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-17 19:23:49,639 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 19:23:49,639 - INFO - Stealth Enabled: True
+2025-12-17 19:23:49,639 - INFO - Rate Limit: 2s
+2025-12-17 19:23:49,650 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-17 19:23:49,650 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-17 19:23:58,148 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-17 19:23:59,130 - INFO - Found 9 links
+2025-12-17 19:23:59,251 - INFO - Scraped 9 URLs
+2025-12-17 19:23:59,251 - INFO - Scraped 9 URLs
+2025-12-17 19:23:59,252 - INFO - Starting scrape of 9 products
+2025-12-17 19:23:59,757 - INFO - [1/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 19:23:59,757 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-17 19:24:08,592 - INFO - NEW: Christmas Pineapple Plant | £32.99
+2025-12-17 19:24:10,594 - INFO - [2/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 19:24:10,599 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-17 19:24:56,757 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden, continuing anyway
+2025-12-17 19:24:56,768 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden, skipping
+2025-12-17 19:24:58,775 - INFO - [3/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 19:24:58,780 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-17 19:25:44,897 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, continuing anyway
+2025-12-17 19:25:44,907 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, skipping
+2025-12-17 19:25:46,915 - INFO - [4/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 19:25:46,920 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-17 19:26:33,046 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift, continuing anyway
+2025-12-17 19:26:33,056 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift, skipping
+2025-12-17 19:26:35,064 - INFO - [5/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 19:26:35,072 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-17 19:27:21,174 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/santas-boots, continuing anyway
+2025-12-17 19:27:21,181 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/santas-boots, skipping
+2025-12-17 19:27:23,188 - INFO - [6/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 19:27:23,194 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-17 19:28:09,308 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, continuing anyway
+2025-12-17 19:28:09,317 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, skipping
+2025-12-17 19:28:11,341 - INFO - [7/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 19:28:11,348 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-17 19:28:57,444 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter, continuing anyway
+2025-12-17 19:28:57,453 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter, skipping
+2025-12-17 19:28:59,461 - INFO - [8/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 19:28:59,467 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-17 19:29:45,609 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant, continuing anyway
+2025-12-17 19:29:45,618 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant, skipping
+2025-12-17 19:29:47,626 - INFO - [9/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 19:29:47,632 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-17 19:30:33,743 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium, continuing anyway
+2025-12-17 19:30:33,753 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium, skipping
+2025-12-17 19:30:35,929 - INFO - Scrape complete: 1 successful, 8 failed
+2025-12-17 19:30:35,929 - INFO - Scraping complete
+2025-12-17 19:30:35,929 - INFO - Results: {'total': 9, 'successful': 1, 'failed': 8}
+2025-12-18 00:31:52,040 - INFO - Starting Prestige V3 Scraper
+2025-12-18 00:31:52,040 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-18 00:31:52,040 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-18 00:31:52,040 - INFO - Stealth Enabled: True
+2025-12-18 00:31:52,040 - INFO - Rate Limit: 2s
+2025-12-18 00:31:52,055 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-18 00:31:52,056 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-18 00:32:01,437 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-18 00:32:02,256 - INFO - Found 9 links
+2025-12-18 00:32:02,366 - INFO - Scraped 9 URLs
+2025-12-18 00:32:02,366 - INFO - Scraped 9 URLs
+2025-12-18 00:32:02,367 - INFO - Starting scrape of 9 products
+2025-12-18 00:32:02,811 - INFO - [1/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-18 00:32:02,815 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-lemon-rose-gift
+2025-12-18 00:32:11,380 - INFO - NEW: Christmas Lemon Rose Gift | £39.99
+2025-12-18 00:32:13,382 - INFO - [2/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-18 00:32:13,389 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-18 00:32:59,554 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, continuing anyway
+2025-12-18 00:32:59,566 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, skipping
+2025-12-18 00:33:01,573 - INFO - [3/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-18 00:33:01,580 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-18 00:33:47,698 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, continuing anyway
+2025-12-18 00:33:47,706 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, skipping
+2025-12-18 00:33:49,717 - INFO - [4/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-18 00:33:49,724 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter
+2025-12-18 00:34:35,855 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter, continuing anyway
+2025-12-18 00:34:35,863 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/amaryllis-bulb-planter, skipping
+2025-12-18 00:34:37,871 - INFO - [5/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-18 00:34:37,878 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/santas-boots
+2025-12-18 00:35:24,034 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/santas-boots, continuing anyway
+2025-12-18 00:35:24,041 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/santas-boots, skipping
+2025-12-18 00:35:26,049 - INFO - [6/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-18 00:35:26,058 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium
+2025-12-18 00:36:12,451 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium, continuing anyway
+2025-12-18 00:36:12,461 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/festive-organic-terrarium, skipping
+2025-12-18 00:36:14,468 - INFO - [7/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-18 00:36:14,475 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-18 00:37:00,609 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant, continuing anyway
+2025-12-18 00:37:00,619 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant, skipping
+2025-12-18 00:37:02,628 - INFO - [8/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-18 00:37:02,634 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden
+2025-12-18 00:37:48,751 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden, continuing anyway
+2025-12-18 00:37:48,766 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-rose-tea-garden, skipping
+2025-12-18 00:37:50,775 - INFO - [9/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-18 00:37:50,782 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-18 00:38:36,905 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, continuing anyway
+2025-12-18 00:38:36,914 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, skipping
+2025-12-18 00:38:39,005 - INFO - Scrape complete: 1 successful, 8 failed
+2025-12-18 00:38:39,005 - INFO - Scraping complete
+2025-12-18 00:38:39,005 - INFO - Results: {'total': 9, 'successful': 1, 'failed': 8}
+2025-12-18 00:47:16,277 - INFO - Starting Prestige V3 Scraper
+2025-12-18 00:47:16,278 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-18 00:47:16,278 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-18 00:47:16,278 - INFO - Stealth Enabled: True
+2025-12-18 00:47:16,278 - INFO - Rate Limit: 2s
+2025-12-18 00:47:16,289 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-18 00:47:16,289 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-18 00:50:31,021 - INFO - Starting Prestige V3 Scraper
+2025-12-18 00:50:31,021 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-18 00:50:31,021 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-18 00:50:31,021 - INFO - Stealth Enabled: True
+2025-12-18 00:50:31,021 - INFO - Rate Limit: 2s
+2025-12-18 00:50:31,021 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-18 00:50:31,022 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-18 00:50:58,418 - INFO - Starting Prestige V3 Scraper
+2025-12-18 00:50:58,418 - INFO - DB Path: prestige_flowers_v3.db
+2025-12-18 00:50:58,419 - INFO - Category URL: https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-18 00:50:58,419 - INFO - Stealth Enabled: True
+2025-12-18 00:50:58,419 - INFO - Rate Limit: 2s
+2025-12-18 00:50:58,419 - INFO - ✅ Database initialized: prestige_flowers_v3.db
+2025-12-18 00:50:58,419 - INFO - Scraping URLs from https://www.prestigeflowers.co.uk/christmas-plants
+2025-12-18 00:51:39,989 - INFO - Page title: Christmas Plants | Next Day Delivery | Prestige Flowers
+2025-12-18 00:51:40,899 - INFO - Found 9 links
+2025-12-18 00:51:41,008 - INFO - Scraped 9 URLs
+2025-12-18 00:51:41,008 - INFO - Scraped 9 URLs
+2025-12-18 00:51:41,009 - INFO - Starting scrape of 9 products
+2025-12-18 00:51:41,490 - INFO - [1/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-18 00:51:41,495 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-red-rose-plant
+2025-12-18 00:51:56,999 - INFO - NEW: Luxury Christmas Rose Plant | £24.99
+2025-12-18 00:51:59,873 - INFO - [2/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-18 00:51:59,880 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1
+2025-12-18 00:53:01,792 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, continuing anyway
+2025-12-18 00:53:01,801 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, skipping
+2025-12-18 00:53:56,185 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, continuing anyway
+2025-12-18 00:53:56,193 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, skipping
+2025-12-18 00:54:50,943 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, continuing anyway
+2025-12-18 00:54:50,951 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/christmas-pineapple-plant-1, skipping
+2025-12-18 00:54:57,981 - INFO - [3/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-18 00:54:57,987 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive
+2025-12-18 00:55:57,979 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, continuing anyway
+2025-12-18 00:55:58,007 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, skipping
+2025-12-18 00:56:56,066 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, continuing anyway
+2025-12-18 00:56:56,076 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, skipping
+2025-12-18 00:57:57,111 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, continuing anyway
+2025-12-18 00:57:57,122 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/fabulous-and-festive, skipping
+2025-12-18 00:58:02,847 - INFO - [4/9] Processing: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-18 00:58:02,853 - INFO - Scraping details: https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset
+2025-12-18 00:58:55,082 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, continuing anyway
+2025-12-18 00:58:55,090 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, skipping
+2025-12-18 00:59:54,919 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, continuing anyway
+2025-12-18 00:59:54,928 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, skipping
+2025-12-18 01:00:57,532 - WARNING - Could not wait for h1 on https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, continuing anyway
+2025-12-18 01:00:57,541 - WARNING - Page still on challenge for https://www.prestigeflowers.co.uk/christmas-plants/winter-hyacinth-bakset, skipping
